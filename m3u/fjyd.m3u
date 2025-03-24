@@ -41,6 +41,12 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰中文" group-title="卫视",凤凰卫视中文台
+http://dns.yiandrive.com:15907/phenix/fhzw
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰资讯" group-title="卫视",凤凰卫视资讯台
+http://dns.yiandrive.com:15907/phenix/fhzx
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰香港" group-title="卫视",凤凰卫视香港台
+http://dns.yiandrive.com:15907/phenix/fhhk
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
@@ -119,6 +125,10 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 tvg-id="泉州一套" tvg-name="qztv-1" group-title="福建",泉州一套
+rtmp://live.qztv.cn/live/news
+#EXTINF:-1 tvg-id="泉州四套" tvg-name="qztv-4" group-title="福建",泉州四套
+rtmp://live.qztv.cn/live/mny
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" group-title="福建",福建综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" group-title="福建",福建新闻
