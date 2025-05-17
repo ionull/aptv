@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/fjyd.m3u
+#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/ionull/aptv/master/m3u/fjyd.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
@@ -42,13 +42,10 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰中文" http-user-agent="FengWatch/5.4.14" group-title="卫视",凤凰卫视中文台
-#EXTVLCOPT:http-user-agent="FengWatch/5.4.14"
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰资讯" http-user-agent="FengWatch/5.4.14" group-title="卫视",凤凰卫视资讯台
-#EXTVLCOPT:http-user-agent="FengWatch/5.4.14"
 https://tv.iill.top/phenix/fhzx
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰香港" http-user-agent="FengWatch/5.4.14" group-title="卫视",凤凰卫视香港台
-#EXTVLCOPT:http-user-agent="FengWatch/5.4.14"
 https://tv.iill.top/phenix/fhhk
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
