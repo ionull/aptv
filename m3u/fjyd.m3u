@@ -3,7 +3,7 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/ionull/aptv/master/m3u/fjyd.m3u
 
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰中文" http-user-agent="FengWatch/5.4.14" group-title="卫视",凤凰卫视中文台
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视",凤凰卫视中文台
 http://118.89.87.74:88/phenix.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="FengWatch/5.4.14" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://118.89.87.74:88/phenix.php?id=fhzx
