@@ -47,8 +47,6 @@ https://tv.iill.top/phenix/fhzw
 https://tv.iill.top/phenix/fhzx
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰香港" http-user-agent="FengWatch/5.4.14" group-title="卫视",凤凰卫视香港台
 https://tv.iill.top/phenix/fhhk
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" group-title="卫视",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
@@ -127,8 +125,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" group-title="卫视",亞洲新聞台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="泉州一套" tvg-name="qztv-1" group-title="福建",泉州一套
 rtmp://live.qztv.cn/live/news
 #EXTINF:-1 tvg-id="泉州四套" tvg-name="qztv-4" group-title="福建",泉州四套
