@@ -125,6 +125,10 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="泉州新闻综合" tvg-logo="https://raw.githubusercontent.com/ionull/live/refs/heads/main/tv/QZTV1.png" http-origin="https://www.qztv.cn" http-referer="https://www.qztv.cn/" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" group-title="新闻频道",泉州新闻综合
+https://live.qztv.cn/live/news20250522_lld.m3u8?auth_key=1753281626-0-0-79eed07990e7daca13089a08f159a181
+#EXTINF:-1 tvg-id="" tvg-name="泉州闽南语" tvg-logo="https://raw.githubusercontent.com/ionull/live/refs/heads/main/tv/QZTV4.png" http-origin="https://www.qztv.cn" http-referer="https://www.qztv.cn/" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" group-title="新闻频道",泉州闽南语
+https://live.qztv.cn/live/mny20250522_lld.m3u8?auth_key=1753281626-0-0-79eed07990e7daca13089a08f159a181
 #EXTINF:-1 tvg-id="泉州一套" tvg-name="qztv-1" group-title="福建",泉州一套
 rtmp://live.qztv.cn/live/news
 #EXTINF:-1 tvg-id="泉州四套" tvg-name="qztv-4" group-title="福建",泉州四套
