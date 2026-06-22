@@ -48,11 +48,11 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.iill.top/logo/澳门莲花.png" group-title="•港澳「限制」",澳門蓮花
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视",凤凰中文
-http://i.iill.top:12838/phenix/fhzw
+https://iptv.yang-1989.eu.org/phenix/fhzw
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视",凤凰资讯
-http://i.iill.top:12838/phenix/fhzx
+https://iptv.yang-1989.eu.org/phenix/fhzx
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视",凤凰香港
-http://i.iill.top:12838/phenix/fhhk
+https://iptv.yang-1989.eu.org/phenix/fhhk
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
